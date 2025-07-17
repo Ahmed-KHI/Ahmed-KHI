@@ -57,8 +57,8 @@ Here’s a taste of my work. Explore all [my repositories](https://github.com/Ah
 
 ## 🌟 Let's Connect and Collaborate
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin) *(update with your link!)*
-- 🐦 [Twitter/X](https://twitter.com/your-twitter) *(update with your link!)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209) 
+- 🐦 [Twitter/X](https://twitter.com/your-twitter) 
 
 ---
 
