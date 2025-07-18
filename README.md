@@ -58,7 +58,9 @@ Here’s a taste of my work. Explore all [my repositories](https://github.com/Ah
 ## 🌟 Let's Connect and Collaborate
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209) 
-- 🐦 [Twitter/X](https://twitter.com/your-twitter) 
+- 🐦 [Twitter/X](https://twitter.com/your-twitter)
+- 💬 Discord: `muhammad018730` [![Discord](https://img.shields.io/badge/Discord-muhammad018730-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1211977466898419776)
+
 
 ---
 
