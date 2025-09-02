@@ -1,73 +1,268 @@
-<!-- Luxurious GitHub Profile README for Muhammad Ahmed -->
+<div align="center">
+  
+# 🌟 Muhammad Ahmed 🌟
+### Aspiring Agentic AI & Robotics Engineer (CAARE Student)
+### 🤖 AI Developer | 🚀 Robotics Enthusiast | 💻 Full-Stack Developer
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FullStack%20Developer-%F0%9F%92%BB-informational?style=flat-square&color=3b82f6">
-  <img src="https://img.shields.io/badge/AI%20Engineer-%F0%9F%A7%A0-success?style=flat-square&color=10b981">
-  <img src="https://img.shields.io/badge/Karachi,%20Pakistan-%F0%9F%87%B5%F0%9F%87%B0-lightgrey?style=flat-square&color=6366f1">
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Welcome+to+My+AI+Learning+Journey!;Mastering+AI+%26+Robotics+at+Panaversity;Currently+Learning+CAARE+Program;OpenAI+Agents+%7C+Modern+Python+Graduate)](https://git.io/typing-svg)
 
-<h1 align="center">Welcome to Muhammad Ahmed's Digital Workshop</h1>
+[![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-KHI&color=blueviolet&style=for-the-badge)](https://github.com/Ahmed-KHI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MirzaMuham93456)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.muhammad.ahmed115@gmail.com)
 
-<p align="center">
-  <img src="https://github.com/Ahmed-KHI.png" width="120" style="border-radius:100%" alt="Ahmed-KHI | Avatar">
-</p>
-
-<p align="center">
-  <b>FullStack Developer | AI Engineer | Innovator</b>
-</p>
+</div>
 
 ---
 
-# 👋 Hi, I'm Muhammad Ahmed
+## 🎯 About Me
 
-Building the future of technology, one line of code at a time.  
-Driven by a passion for elegant solutions, robust architecture, and next-gen AI.
+> *"The AI Revolution is Here: The Future Belongs to the Architects of Intelligence"*
 
----
+I'm **Muhammad Ahmed**, a passionate **CAARE (Certified Agentic AI & Robotics Engineer) student** currently advancing through cutting-edge programs at **Panaversity**. I'm on an exciting journey to master the design, building, and deployment of autonomous software agents and physical robots that operate reliably, securely, and at scale.
 
-## 🚀 My Expertise
-
-- **Languages:** JavaScript, TypeScript, Python, C++
-- **Frameworks:** Node.js, React, Next.js, Express, NestJS
-- **AI/ML:** Deep Learning, NLP, AI integrations
-- **DevOps:** Docker, CI/CD, GitHub Actions
-- **Cloud:** AWS, Azure, Firebase
+### 🚀 Current Mission
+Immersing myself in the world of artificial intelligence and robotics, I'm building foundational expertise in agentic AI systems while working towards becoming a certified professional who can bridge AI innovation with real-world applications.
 
 ---
 
-## 🏆 Featured Projects
+## 🎓 Education & Certifications
 
-Here’s a taste of my work. Explore all [my repositories](https://github.com/Ahmed-KHI?tab=repositories&q=&type=public&sort=stargazers) for more!
+<div align="center">
 
-- [Secure Data Encryption Assignment](https://github.com/Ahmed-KHI/secure_data_encryption_assignment)
-- [Portfolio Custom CSS](https://github.com/Ahmed-KHI/milestone-2-portfolio-custom.css-by-00263838)
-- [OOP ATM Assignment](https://github.com/Ahmed-KHI/oop-assignment-atm)
-- [Dynamic Frontend Components for Marketplace](https://github.com/Ahmed-KHI/dynamic_frontend_components_for_marketplace-by-00263838)
-- [Quiz System (TypeScript/Node)](https://github.com/Ahmed-KHI/TypeScript-NODEPROJECTS-Quiz-System)
-- [Secure Console Login](https://github.com/Ahmed-KHI/Secure-Console-Login)
-- [Hackathon Editable Resume](https://github.com/Ahmed-KHI/Hackathon_Milestone_4_by_00263838)
-- [Password Strength Meter](https://github.com/Ahmed-KHI/project-02-password-strength-meter)
-- [Modern E-learning Website](https://github.com/Ahmed-KHI/Modern_E-learning_Website-by-00263838)
-- [Adventure Game (TypeScript/Node)](https://github.com/Ahmed-KHI/TypeScript-NODEPROJECTS-Adventure-Game)
+### � Learning Journey - CAARE Program
+*Comprehensive multi-level curriculum in autonomous AI systems*
 
-> **Note:** Only a selection of my 75+ repositories is shown here.  
-> See more at [github.com/Ahmed-KHI?tab=repositories&q=&type=public&sort=stargazers](https://github.com/Ahmed-KHI?tab=repositories&q=&type=public&sort=stargazers).
+| **Program** | **Focus Area** | **Status** |
+|-------------|----------------|------------|
+| 🤖 **Modern AI Python** | Type Hints, Advanced Python | ✅ **Completed** |
+| 🧠 **OpenAI Agents SDK** | Agent Development & Integration | ✅ **Completed** |
+| 🌐 **N8N Agentic AI** | Workflow Automation & LLMs | 🔄 **Currently Learning** |
+| 🏗️ **Agentic AI Fundamentals** | Memory, MCP, Multi-Agent Systems | 📚 **Next Phase** |
+| 🏗️ **Cloud-Native AI Agents** | Kubernetes, Docker, Dapr | � **Upcoming** |
+| 🦾 **Physical AI & Robotics** | Humanoid Robotics Systems | 📅 **Future Goal** |
 
----
-
-## 🌟 Let's Connect and Collaborate
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209) 
-- 🐦 [Twitter/X](https://x.com/MirzaMuham93456)
-- [![Discord](https://img.shields.io/badge/Discord-muhammad018730-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1211977466898419776)
-
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,cpp,aws,docker,github" alt="My Tech Stack" />
-</p>
+## 💻 Technical Arsenal
 
-<p align="center">
-  <i>Elegance, innovation, and impact — in every commit.</i>
-</p>
+<div align="center">
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### 🌐 Web Development
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Dapr](https://img.shields.io/badge/Dapr-0D2192?style=for-the-badge&logo=dapr&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+
+</div>
+
+---
+
+## 🏗️ Learning Projects & Current Focus
+
+<div align="center">
+
+### 🎯 Areas of Study & Development
+
+</div>
+
+| 🤖 **Agentic AI Systems** | 🐍 **Modern Python Development** | 🌐 **AI Workflows** |
+|---------------------------|----------------------------------|---------------------|
+| • OpenAI Agents SDK Learning | • Advanced Type Hints Mastery | • N8N Automation (Learning) |
+| • Multi-Agent Concepts | • Modern Python Best Practices | • LLM Integration Patterns |
+| • Memory Management Systems | • Async/Await Programming | • Workflow Orchestration |
+| • Tool Integration Basics | • Testing & Code Quality | • Visual Agent Development |
+
+### 🚀 Current Learning Projects
+
+<details>
+<summary><b>🧠 OpenAI Agents SDK Mastery</b></summary>
+
+- **Agent Development** - Building intelligent conversational agents
+- **Tool Integration** - Custom function tools with automatic validation  
+- **Handoff Patterns** - Learning agent coordination techniques
+- **Session Management** - Understanding conversation state handling
+
+</details>
+
+<details>
+<summary><b>🐍 Modern Python Expertise</b></summary>
+
+- **Type Hints Mastery** - Advanced static typing for robust code
+- **Async Programming** - Modern concurrent programming patterns
+- **Best Practices** - Writing maintainable, scalable Python code
+- **Testing Frameworks** - Comprehensive testing strategies
+
+</details>
+
+<details>
+<summary><b>🌐 N8N Workflow Learning</b></summary>
+
+- **Visual Automation** - Learning drag-and-drop AI workflows
+- **LLM Integration** - Connecting various language models
+- **API Orchestration** - Building complex automation chains
+- **Real-world Applications** - Practical workflow implementations
+
+</details>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-KHI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-KHI&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-KHI&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-KHI&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements & Milestones
+
+<div align="center">
+
+| 🎯 **Milestone** | 📅 **Date** | 🏅 **Achievement** |
+|------------------|-------------|-------------------|
+| Modern AI Python | 2024 | ✅ Successfully Completed |
+| OpenAI Agents SDK | 2024 | ✅ Successfully Completed |
+| CAARE Program Start | 2024 | 🚀 Enrolled in Full Program |
+| N8N Agentic AI | 2025 | 🔄 Currently Learning |
+
+</div>
+
+---
+
+## 🌟 Key Competencies
+
+<div align="center">
+
+### 🧠 AI & Machine Learning Expertise
+```mermaid
+mindmap
+  root((AI Expertise))
+    Agentic AI
+      OpenAI Agents SDK
+      Multi-Agent Systems
+      Memory Management
+      Tool Integration
+    Machine Learning
+      LLM Fine-tuning
+      Model Deployment
+      PyTorch Development
+      Computer Vision
+    Robotics
+      Physical AI
+      Sensor Integration
+      Real-time Systems
+      Motion Planning
+```
+
+### 🏗️ System Architecture
+```mermaid
+graph TB
+    A[Agentic AI Layer] --> B[Application Services]
+    B --> C[Orchestration Layer]
+    C --> D[Infrastructure Layer]
+    
+    A --> A1[OpenAI Agents]
+    A --> A2[LangGraph]
+    A --> A3[Memory Systems]
+    
+    B --> B1[REST APIs]
+    B --> B2[WebSockets]
+    B --> B3[Message Queues]
+    
+    C --> C1[Kubernetes]
+    C --> C2[Dapr]
+    C --> C3[Service Mesh]
+    
+    D --> D1[Docker Containers]
+    D --> D2[Cloud Providers]
+    D --> D3[Edge Devices]
+```
+
+</div>
+
+---
+
+## 📚 Continuous Learning Journey
+
+### 📖 Currently Learning
+- **CAARE Program at Panaversity** - Comprehensive AI & Robotics curriculum
+- **N8N Workflow Automation** - Visual AI agent development and LLM integration
+- **Advanced Python Patterns** - Building on modern Python foundation
+- **Agentic AI Concepts** - Multi-agent systems and coordination patterns
+
+### 🎯 Upcoming Learning Goals
+- **Advanced Agentic AI** - Memory systems, MCP, and complex orchestration
+- **Cloud-Native AI** - Kubernetes, Docker, and Dapr for AI workloads
+- **Physical AI & Robotics** - Bridging digital and physical intelligence
+- **Production AI Systems** - Scalable, secure, and reliable deployments
+
+### ✅ Recently Completed
+- **Modern AI Python** - Advanced type hints, async programming, best practices
+- **OpenAI Agents SDK** - Agent development, tools, handoffs, and sessions
+
+---
+
+## 🤝 Let's Connect & Collaborate!
+
+<div align="center">
+
+### 💼 Learning & Career Aspirations
+I'm actively developing skills for future opportunities in:
+- **Agentic AI Development** - Building intelligent autonomous systems
+- **AI Software Engineering** - Modern Python and AI system development
+- **Machine Learning Engineering** - Production-ready AI solutions
+- **Technical Innovation** - Contributing to AI advancement and research
+
+### 📞 Get In Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209)
+[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.muhammad.ahmed115@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Tech_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MirzaMuham93456)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 *"Learning to Build the Future with AI, One Step at a Time"* 🌟
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+**⭐ Star my repositories if you find them interesting!**  
+**🤝 Let's collaborate on the next breakthrough in AI and Robotics!**
+
+---
+
+</div>
