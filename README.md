@@ -261,7 +261,11 @@ I'm actively developing skills for future opportunities in:
 
 ### 🌟 *"Learning to Build the Future with AI, One Step at a Time"* 🌟
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,100:6366f1&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=65" />
+</div>
+
+<div align="center">
 
 **⭐ Star my repositories if you find them interesting!**  
 **🤝 Let's collaborate on the next breakthrough in AI and Robotics!**
