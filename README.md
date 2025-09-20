@@ -6,10 +6,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Welcome+to+My+AI+Learning+Journey!;Mastering+AI+%26+Robotics+at+Panaversity;Currently+Learning+CAARE+Program;OpenAI+Agents+%7C+Modern+Python+Graduate)](https://git.io/typing-svg)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-KHI&color=blueviolet&style=for-the-badge)](https://github.com/Ahmed-KHI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MirzaMuham93456)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.muhammad.ahmed115@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-KHI&color=blueviolet&style=flat)](https://github.com/Ahmed-KHI)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MirzaMuham93456)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.muhammad.ahmed115@gmail.com)
 
 </div>
 
@@ -51,29 +52,29 @@ Immersing myself in the world of artificial intelligence and robotics, I'm build
 <div align="center">
 
 ### 🤖 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
 ### 🌐 Web Development
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Dapr](https://img.shields.io/badge/Dapr-0D2192?style=for-the-badge&logo=dapr&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Dapr](https://img.shields.io/badge/Dapr-0D2192?style=flat&logo=dapr&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=flat&logo=rancher&logoColor=white)
 
 </div>
 
@@ -166,6 +167,7 @@ Immersing myself in the world of artificial intelligence and robotics, I'm build
 
 ### 🧠 AI & Machine Learning Expertise
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor': '#faf608ff', 'primaryTextColor': '#34ec0fff', 'primaryBorderColor': '#0da7eeff'}}}%%
 mindmap
   root((AI Expertise))
     Agentic AI
@@ -187,6 +189,7 @@ mindmap
 
 ### 🏗️ System Architecture
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor': '#faf608ff', 'primaryTextColor': '#023846ff', 'primaryBorderColor': '#0da7eeff'}}}%%
 graph TB
     A[Agentic AI Layer] --> B[Application Services]
     B --> C[Orchestration Layer]
@@ -246,9 +249,9 @@ I'm actively developing skills for future opportunities in:
 
 ### 📞 Get In Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209)
-[![Email](https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.muhammad.ahmed115@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Tech_Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/MirzaMuham93456)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mirza-muhammad-ahmed-09b932209)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.muhammad.ahmed115@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/MirzaMuham93456)
 
 </div>
 
