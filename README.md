@@ -8,7 +8,7 @@
 
 <!-- Profile Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahmed-KHI&label=Profile%20Views&color=gradient&style=plastic" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Ahmed-KHI&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Ahmed-KHI?label=Followers&style=flat-square&color=00D9FF&labelColor=1a1a1a" alt="Followers"/>
   <img src="https://img.shields.io/badge/Focus-AI%20Commercialization-FF6B35?style=flat-square&labelColor=1a1a1a" alt="Focus"/>
 </p>
